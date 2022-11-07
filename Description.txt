@@ -1,0 +1,8 @@
+- Classical Laminated Plate Theory for Cross-bidirectional Rectangular Laminated Composite Plates.
+- Analytical solutions for Specially Orthotropic Laminates for CLPT.
+- Simply supported boundary conditions on all 4 edges of a rectangular plate.
+- Navier solutions.
+- Case 1: Sinusoidally distributed load
+- In-plane stress calculation
+- Calculation of the Interlaminar stresses using the 3D stress equilibrium equations
+- MATLAB code: Input data required (1. Geometry; 2. Material properties; 3. Constitutive relations in the laminae coordinate; 4. Stacking sequence of the laminae; 5. Constitutive relations in the laminae using Transformation matrix; 6. Calculations of the unknown field variables; 7. Calculations of stresses, strains & displacements)
